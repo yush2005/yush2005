@@ -20,7 +20,7 @@
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
+
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
@@ -58,6 +58,7 @@ Uses TF-IDF + machine learning pipeline for job-role prediction and deployed usi
 **Description:**  
 Machine learning regression pipeline using Random Forest and preprocessing via ColumnTransformer.  
 Includes data cleaning, feature engineering, and a Streamlit interface with budget-aware rental recommendations.
+🔗 **Repo:** [India House Price Prediction](https://github.com/yush2005/REPO-NAME)
 
 ---
 
