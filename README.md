@@ -5,6 +5,21 @@
 🎓 B.Tech CSE (AI & Data Science) | Pimpri Chinchwad University, Pune
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/ayush-bankar-a3a934289/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayushbankar626@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yush2005" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+
 ---
 
 ## 🌟 About Me
