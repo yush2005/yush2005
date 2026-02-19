@@ -37,36 +37,14 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
+## 🚀 Featured Projects
 
-## 📂 Featured Projects
-
-### 🛒 E-commerce Sales Dashboard
-**Description:**  
-Interactive sales analytics dashboard built using Power BI and Excel.  
-Visualizes revenue trends, top products, and regional performance using filters and slicers to support data-driven decision making.
-
----
-
-### 📄 NLP Resume Parser & Job Role Classification
-**Description:**  
-End-to-end NLP application that extracts key information (email, phone, skills) from resumes using regex and text preprocessing.  
-Uses TF-IDF + machine learning pipeline for job-role prediction and deployed using Streamlit.
-
----
-
-### 🏠 India House Rent Prediction & Recommendation System
-**Description:**  
-Machine learning regression pipeline using Random Forest and preprocessing via ColumnTransformer.  
-Includes data cleaning, feature engineering, and a Streamlit interface with budget-aware rental recommendations.
-🔗 **Repo:** [India House Price Prediction](https://github.com/yush2005/REPO-NAME)
-
----
-
-### 🏏 Cricket Match Prediction & Analytics System (Work in Progress)
-**Description:**  
-Built on 150K+ cricket records using Python and Scikit-learn.  
-Includes data cleaning, feature engineering, exploratory analysis, and classification models to predict match outcomes and events.
-
+| Project | Description | Links |
+|---------|-------------|-------|
+| 🏠 **India House Rent Prediction** | ML regression system using Random Forest with preprocessing, feature engineering, and Streamlit interface for budget-aware rental recommendations. | [![Repo](https://img.shields.io/badge/VIEW%20REPO-blue?style=for-the-badge&logo=github)](https://github.com/yush2005/India-House-Rent-Prediction) |
+| 📄 **NLP Resume Parser** | NLP-based system that extracts key resume details using Regex and predicts job roles using TF-IDF + ML pipeline. Deployed with Streamlit. | [![Repo](https://img.shields.io/badge/VIEW%20REPO-blue?style=for-the-badge&logo=github)](https://github.com/yush2005/REPO-NAME) |
+| 📊 **E-commerce Sales Dashboard** | Interactive Power BI & Excel dashboard visualizing revenue trends, top-selling products, and regional performance insights. | [![Repo](https://img.shields.io/badge/VIEW%20REPO-blue?style=for-the-badge&logo=github)](https://github.com/yush2005/REPO-NAME) |
+| 🏏 **Cricket Match Prediction** | ML pipeline built on 150K+ records for match outcome prediction using data analysis, feature engineering, and classification models. | [![Repo](https://img.shields.io/badge/VIEW%20REPO-blue?style=for-the-badge&logo=github)](https://github.com/yush2005/REPO-NAME) |
 ---
 
 ## 🏆 Certifications
